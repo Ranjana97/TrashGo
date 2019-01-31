@@ -1,5 +1,5 @@
 # Trashgo Waste Management app
-![Smart Garbage Management System](system.png)
+![Trashgo Waste Management System](system.png)
 
 
 # Problem Statement: 
@@ -12,7 +12,7 @@ Technologies: LoRa, Smart Mesh, RF, WiFi
 
 # Proposed Solution:
 We propose a smart Wireless Garbage Bin equipped with LoRa RF and IoT technologies to solve this emerging issue in City/Town sanitation sector. Each Garbage Bin will be equipped with level and weight sensor along with GPS position information in case of any mobility. All data will be sent through LoRa/RF communication "Smart Mesh" link to central server where it can be made available through mobile app to Sanitation workers for quick response and effective collection and disposal of garbage. Efficient route calculation for garbage collector van is also proposed for minimising the efforts in collection.
-Benefits of using Smart Garbage Management System
+Benefits of using Trashgo Waste Management System
 1.	Prevent overflowing of Garbage bins due to real-time status of bins on centralized system and mobile application..
 2.	More efficient garbage collection due to availability of empty bins as its collected in time.
 3.	Use of LoRa and smart Mesh RF technology prevent any use of infrastructure such as GSM/GPRS or Wi-Fi.
